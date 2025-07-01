@@ -1,4 +1,4 @@
 # demo-repository
 This is my Demo git Repository.
 <br>
-Author - Muhammad Ahmad
+Author - Muhammad Ahmad(using git)
